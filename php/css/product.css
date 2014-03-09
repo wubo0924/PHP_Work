@@ -1,0 +1,54 @@
+.product_center{
+	float:left;
+	width:66%;
+	margin-top:20px;
+	height:100%;
+}
+.product_center p a{
+	color:#4f60ad;
+	text-decoration:underline;
+}
+.product_center p a:hover{
+	background-color:#d17351;
+}
+.product_center table{
+    border:1px solid;
+    border-color:#CCCCCC;
+    font-family:Arial;
+    font-size:16px;
+    color:#5D5D5D;
+    
+}
+
+.td1{
+	border-bottom:solid;
+	border-top:solid;
+	border-color:#CCCCCC;
+	border-width:1px;
+	height:30px;
+	background-color:#F1F1F1;
+
+}
+.td2{
+	color:#002098;
+	font-size:13px;
+}
+
+.td1_11{
+	width:25%;
+	border-bottom:1px solid #CCCCCC;
+	font-size:13px;
+}
+.td1_12{
+	width:50%;
+	border-bottom:1px solid #CCCCCC;
+	font-size:13px;
+}
+a.detail_link{
+	color:blue;
+	text-decoration:underline;
+}
+a.detail_link:hover{
+	background-color:#6f1d4e;
+	
+}

@@ -1,0 +1,3 @@
+ad@gamil.com.cn|shoe1+1#|136.8|2012-10-06 17:59|w#1|8/675 Centre Rd,1,VIC
+ad@gamil.com.cn|laptop1+1#|820|2012-10-06 18:00|1#r|1 mei rd,3,VIC
+ad@gamil.com.cn|shoe1+1#shoe2+2#|512.8|2012-10-06 18:01|w#e|8/675 Centre Rd,3,VIC

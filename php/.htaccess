@@ -1,0 +1,4 @@
+AuthName "Mickey Mouse Only Area"
+AuthType Basic
+AuthUserFile /home/stud/s3363780/.HTMLinfo/WP/part3/.htpassword
+Require valid-user
